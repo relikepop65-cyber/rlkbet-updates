@@ -1,9 +1,8 @@
 {
     "version": "2.0.1",
     "download_url": "https://github.com/relikepop65-cyber/rlkbet-updates/releases/download/v2.0.1/rlkbet_v2.0.1.exe",
-    "raw_url": "https://raw.githubusercontent.com/relikepop65-cyber/rlkbet-updates/main/rlkbet_v2.0.1.exe",
-    "md5_hash": "",
-    "size": "0 MB",
-    "release_date": "2024-01-15",
-    "changelog": "• Primeira versão com auto-update\n• Correções de bugs"
+    "md5_hash": "204e551918e5f5b390568d643c8672c8a83da59153771f5f3994c2112aba9e30",
+    "size": "179 MB",
+    "release_date": "2025-01-15",
+    "changelog": "• Sistema de auto-update implementado\n• Correção de bugs na automação\n• Melhorias de performance"
 }
