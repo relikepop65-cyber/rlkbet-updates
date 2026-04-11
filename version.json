@@ -1,8 +1,7 @@
 {
     "version": "2.0.2",
-    "download_url": "https://github.com/relikepop65-cyber/rlkbet-updates/releases/download/v2.0.2/rlkbet_v2.0.2.exe",
-    "md5_hash": "",
+    "download_url": "https://github.com/relikepop65-cyber/rlkbet-updates/releases/download/v2.0.2/bet365_automation_gui_v2.0.2.exe",
     "size": "179 MB",
-    "release_date": "2025-01-16",
-    "changelog": "• Versão inicial com auto-update\n• Launcher integrado\n• Sistema de atualização automática"
+    "release_date": "2025-04-11",
+    "changelog": "• Auto-update com launcher\n• Correções de bugs"
 }
